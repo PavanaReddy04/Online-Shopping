@@ -1,95 +1,17 @@
 --Inserting data into tables :-
 --1)User
 insert into User values
-('happy_1'
-,
-'lalith'
-,
-'takare'
-,
-'9673682921'
-,
-'lalith_123@
-gmail.com'
-,
-'takare*2'
-,
-'29384');
+('happy_1','lalith','takare','9673682921','lalith_123@gmail.com','takare*2','29384');
 insert into User values
-('m3g4n'
-,
-'meghana'
-,
-'pasikanti'
-,
-'6322232541'
-,
-'megh
-anapasikanti@gmail.com'
-,
-'m_pasi*2'
-,
-'10283');
+('m3g4n','meghana','pasikanti','6322232541','meghanapasikanti@gmail.com','m_pasi*2','10283');
 insert into User values
-('asam_123'
-,
-'asam'
-,
-'samba'
-,
-'3256974105'
-,
-'asamsa
-mba@gmail.com'
-,
-'test1'
-,
-'93749');
+('asam_123','asam','samba','3256974105','asamsamba@gmail.com''test1','93749');
+insert into User values('suji_rider''sujit','das','3689741025','sujitdas@gmai.com','passw_ord','92748');
 insert into User values
-('suji_rider'
-,
-'sujit'
-,
-'das'
-,
-'3689741025'
-,
-'sujitdas@gmai
-l.com'
-,
-'passw_ord'
-,
-'92748');
+('hema_123''hema','landa','6598126523','hemalanda@gmail.com','hema*123','92472');
 insert into User values
-('hema_123'
-,
-'hema'
-,
-'landa'
-,
-'6598126523'
-,
-'hemaland
-a@gmail.com'
-,
-'hema*123'
-,
-'92472');
-insert into User values
-('sruth_56'
-,
-'sruthi'
-,
-'pulusu'
-,
-'6548236545'
-,
-'sruthipulu
-su@gmail.com'
-,
-'zinch'
-,
-'65463');
+('sruth_56','sruthi','pulusu','6548236545','sruthipulusu@gmail.com','zinch','65463');
+
 --2)PIN
 Insert into PIN
 Values (29384,
